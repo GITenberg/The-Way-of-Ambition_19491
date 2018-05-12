@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/919
     wikipedia: http://en.wikipedia.org/wiki/Robert_Smythe_Hichens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19491#The-Way-of-Ambition
 gutenberg_issued: '2006-10-07'
 gutenberg_type: Text
 identifiers:
